@@ -1,0 +1,2 @@
+casa(azul).
+casa(amarelo).
